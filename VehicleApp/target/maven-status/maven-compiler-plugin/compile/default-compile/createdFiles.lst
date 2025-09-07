@@ -1,7 +1,0 @@
-com\garaje\controller\Vehicle.class
-com\garaje\facade\VehiculoFacade.class
-com\garaje\persistence\VehiculoDAO.class
-com\garaje\model\Vehiculo.class
-com\uts\taller1\vehicleapp\resources\JakartaEE10Resource.class
-com\uts\taller1\vehicleapp\JakartaRestConfiguration.class
-com\garaje\controller\VehicleServlet.class
