@@ -65,3 +65,11 @@ Implementadas en `VehiculoFacade`:
      color VARCHAR(20),
      propietario VARCHAR(50) NOT NULL
    );
+2. Configurar pool JDBC en GlassFish/Payara:
+Nombre: jdbc/myPool o jdbc/garageDB.
+
+3. Desplegar proyecto en el servidor.
+
+4. Abrir navegador:
+   http://localhost:8080/garaje/Vehicles
+
